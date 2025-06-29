@@ -1,0 +1,27 @@
+{
+  "name": "white-devil-by-sp",
+  "displayName": "White Devil Theme by SP",
+  "description": "A clean, bright VSCode theme built for early birds and developers who love daylight clarity.",
+  "version": "1.0.0",
+  "publisher": "sp2736",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "White Devil",
+        "uiTheme": "vs",
+        "path": "./themes/white-devil-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sp2736/white-devil"
+  }
+}
