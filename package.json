@@ -2,7 +2,7 @@
   "name": "white-devil-by-sp",
   "displayName": "White Devil Theme by SP",
   "description": "A clean, bright VSCode theme built for early birds and developers who love daylight clarity.",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "publisher": "sp2736",
   "engines": {
     "vscode": "^1.80.0"
